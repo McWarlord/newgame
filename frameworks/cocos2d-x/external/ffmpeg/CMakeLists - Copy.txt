@@ -1,0 +1,54 @@
+cmake_minimum_required(VERSION 3.6)
+
+# set(lib_name ffmpeg)
+# set(target_name ${lib_name})
+
+# project(${lib_name})
+
+# set_target_properties(${target_name} PROPERTIES
+#  INTERFACE_INCLUDE_DIRECTORIES "${CMAKE_CURRENT_SOURCE_DIR}"
+# )
+
+# if(WINDOWS)
+#  set_target_properties(${target_name} PROPERTIES
+#    # need use absolutely path
+#    IMPORTED_LOCATION "${platform_spec_path}/lib${lib_name}.lib"
+#  )
+#else()
+#  set_target_properties(${target_name} PROPERTIES
+#    IMPORTED_LOCATION "${platform_spec_path}/libavcodec.a"
+#    IMPORTED_LOCATION "${platform_spec_path}/libavdevice.a"
+#    IMPORTED_LOCATION "${platform_spec_path}/libavfilter.a"
+#    IMPORTED_LOCATION "${platform_spec_path}/libavformat.a"
+#    IMPORTED_LOCATION "${platform_spec_path}/libavutil.a"
+#    IMPORTED_LOCATION "${platform_spec_path}/libswscale.a"
+#  )
+#endif()
+
+project(ffmpeg)
+
+include_directories(
+	.
+	include
+)
+
+add_library(ffmpeg
+        SHARED
+        IMPORTED
+        GLOBAL
+        )
+
+set_target_properties(ffmpeg PROPERTIES 
+#	    IMPORTED_LOCATION ${CMAKE_SOURCE_DIR}/frameworks/cocos2d-x/external/ffmpeg/libavformat-55.so
+#	    IMPORTED_LOCATION ${CMAKE_SOURCE_DIR}/frameworks/cocos2d-x/external/ffmpeg/libavcodec-55.so
+#	    IMPORTED_LOCATION ${CMAKE_SOURCE_DIR}/frameworks/cocos2d-x/external/ffmpeg/libavutil-52.so
+#	    IMPORTED_LOCATION ${CMAKE_SOURCE_DIR}/frameworks/cocos2d-x/external/ffmpeg/libswscale-2.so
+
+#	    IMPORTED_LOCATION ${CMAKE_SOURCE_DIR}/frameworks/cocos2d-x/external/ffmpeg/libavformat.a
+#	    IMPORTED_LOCATION ${CMAKE_SOURCE_DIR}/frameworks/cocos2d-x/external/ffmpeg/libavcodec.a
+#	    IMPORTED_LOCATION ${CMAKE_SOURCE_DIR}/frameworks/cocos2d-x/external/ffmpeg/libavutil.a
+#	    IMPORTED_LOCATION ${CMAKE_SOURCE_DIR}/frameworks/cocos2d-x/external/ffmpeg/libswscale.a
+#	    IMPORTED_LOCATION ${CMAKE_SOURCE_DIR}/frameworks/cocos2d-x/external/ffmpeg/libavdevice.a
+#	    IMPORTED_LOCATION ${CMAKE_SOURCE_DIR}/frameworks/cocos2d-x/external/ffmpeg/libavfilter.a
+)
+

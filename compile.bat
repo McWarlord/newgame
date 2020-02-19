@@ -1,0 +1,1 @@
+cocos luacompile -s ./src -d ./srcEncrypted -e --encryptkey=WarlordSeaStory123!@#

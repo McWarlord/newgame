@@ -1,0 +1,1 @@
+cocos compile -p android -m release --ap android-23 --app-abi=armeabi-v7a

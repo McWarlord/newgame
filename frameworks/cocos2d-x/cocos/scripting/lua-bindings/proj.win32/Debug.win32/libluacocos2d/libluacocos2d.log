@@ -1,0 +1,128 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\Common7\IDE\VC\VCTargets\Platforms\Win32\PlatformToolsets\v141_xp\Toolset.targets(39,5): warning MSB8051: Support for targeting Windows XP is deprecated and will not be present in future releases of Visual Studio. Please see https://go.microsoft.com/fwlink/?linkid=2023588 for more information.
+  2 File(s) copied
+  lua_cocos2dx_3d_auto.cpp
+  lua_cocos2dx_auto.cpp
+  lua_cocos2dx_physics_auto.cpp
+  lua_cocos2dx_spine_auto.cpp
+  lua_downloader.cpp
+  LuaSkeletonAnimation.cpp
+  lua_cocos2dx_spine_manual.cpp
+f:\cocos2d\story_2\seastory\frameworks\cocos2d-x\cocos\physics\ccphysicsbody.h : warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss (compiling source file ..\auto\lua_cocos2dx_3d_auto.cpp)
+f:\cocos2d\story_2\seastory\frameworks\cocos2d-x\cocos\physics\ccphysicsshape.h : warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss (compiling source file ..\auto\lua_cocos2dx_3d_auto.cpp)
+f:\cocos2d\story_2\seastory\frameworks\cocos2d-x\cocos\physics\ccphysicsbody.h : warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss (compiling source file ..\auto\lua_cocos2dx_auto.cpp)
+f:\cocos2d\story_2\seastory\frameworks\cocos2d-x\cocos\physics\ccphysicsshape.h : warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss (compiling source file ..\auto\lua_cocos2dx_auto.cpp)
+f:\cocos2d\story_2\seastory\frameworks\cocos2d-x\cocos\physics\ccphysicsbody.h : warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss (compiling source file ..\auto\lua_cocos2dx_spine_auto.cpp)
+f:\cocos2d\story_2\seastory\frameworks\cocos2d-x\cocos\physics\ccphysicsshape.h : warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss (compiling source file ..\auto\lua_cocos2dx_spine_auto.cpp)
+f:\cocos2d\story_2\seastory\frameworks\cocos2d-x\cocos\physics\ccphysicsbody.h : warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss (compiling source file ..\manual\network\lua_downloader.cpp)
+f:\cocos2d\story_2\seastory\frameworks\cocos2d-x\cocos\physics\ccphysicsshape.h : warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss (compiling source file ..\manual\network\lua_downloader.cpp)
+f:\cocos2d\story_2\seastory\frameworks\cocos2d-x\cocos\physics\ccphysicsbody.h : warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss (compiling source file ..\manual\spine\LuaSkeletonAnimation.cpp)
+f:\cocos2d\story_2\seastory\frameworks\cocos2d-x\cocos\physics\ccphysicsshape.h : warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss (compiling source file ..\manual\spine\LuaSkeletonAnimation.cpp)
+f:\cocos2d\story_2\seastory\frameworks\cocos2d-x\cocos\physics\ccphysicsbody.h : warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss (compiling source file ..\manual\spine\lua_cocos2dx_spine_manual.cpp)
+f:\cocos2d\story_2\seastory\frameworks\cocos2d-x\cocos\physics\ccphysicsshape.h : warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss (compiling source file ..\manual\spine\lua_cocos2dx_spine_manual.cpp)
+f:\cocos2d\story_2\seastory\frameworks\cocos2d-x\cocos\physics\ccphysicsbody.h : warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss (compiling source file ..\auto\lua_cocos2dx_physics_auto.cpp)
+f:\cocos2d\story_2\seastory\frameworks\cocos2d-x\cocos\physics\ccphysicsshape.h : warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss (compiling source file ..\auto\lua_cocos2dx_physics_auto.cpp)
+f:\cocos2d\story_2\seastory\frameworks\cocos2d-x\cocos\base\ccutf8.h : warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss (compiling source file ..\manual\spine\lua_cocos2dx_spine_manual.cpp)
+f:\cocos2d\story_2\seastory\frameworks\cocos2d-x\cocos\base\ccutf8.h : warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss (compiling source file ..\auto\lua_cocos2dx_3d_auto.cpp)
+f:\cocos2d\story_2\seastory\frameworks\cocos2d-x\cocos\base\ccutf8.h : warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss (compiling source file ..\auto\lua_cocos2dx_auto.cpp)
+f:\cocos2d\story_2\seastory\frameworks\cocos2d-x\cocos\base\ccutf8.h : warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss (compiling source file ..\auto\lua_cocos2dx_spine_auto.cpp)
+f:\cocos2d\story_2\seastory\frameworks\cocos2d-x\cocos\base\ccutf8.h : warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss (compiling source file ..\manual\spine\LuaSkeletonAnimation.cpp)
+f:\cocos2d\story_2\seastory\frameworks\cocos2d-x\cocos\base\ccutf8.h : warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss (compiling source file ..\manual\network\lua_downloader.cpp)
+f:\cocos2d\story_2\seastory\frameworks\cocos2d-x\cocos\base\ccutf8.h : warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss (compiling source file ..\auto\lua_cocos2dx_physics_auto.cpp)
+f:\cocos2d\story_2\seastory\frameworks\cocos2d-x\cocos\platform\ccsaxparser.h : warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss (compiling source file ..\manual\spine\LuaSkeletonAnimation.cpp)
+f:\cocos2d\story_2\seastory\frameworks\cocos2d-x\cocos\platform\ccsaxparser.h : warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss (compiling source file ..\auto\lua_cocos2dx_3d_auto.cpp)
+f:\cocos2d\story_2\seastory\frameworks\cocos2d-x\cocos\platform\ccsaxparser.h : warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss (compiling source file ..\auto\lua_cocos2dx_spine_auto.cpp)
+f:\cocos2d\story_2\seastory\frameworks\cocos2d-x\cocos\platform\ccsaxparser.h : warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss (compiling source file ..\auto\lua_cocos2dx_auto.cpp)
+f:\cocos2d\story_2\seastory\frameworks\cocos2d-x\cocos\platform\ccsaxparser.h : warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss (compiling source file ..\manual\network\lua_downloader.cpp)
+f:\cocos2d\story_2\seastory\frameworks\cocos2d-x\cocos\platform\ccsaxparser.h : warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss (compiling source file ..\auto\lua_cocos2dx_physics_auto.cpp)
+f:\cocos2d\story_2\seastory\frameworks\cocos2d-x\cocos\platform\ccsaxparser.h : warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss (compiling source file ..\manual\spine\lua_cocos2dx_spine_manual.cpp)
+f:\cocos2d\story_2\seastory\frameworks\cocos2d-x\cocos\scripting\lua-bindings\auto\lua_cocos2dx_3d_auto.cpp(90): warning C4083: expected '('; found identifier 'NO'
+f:\cocos2d\story_2\seastory\frameworks\cocos2d-x\cocos\scripting\lua-bindings\auto\lua_cocos2dx_spine_auto.cpp(180): warning C4083: expected '('; found identifier 'NO'
+f:\cocos2d\story_2\seastory\frameworks\cocos2d-x\cocos\scripting\lua-bindings\auto\lua_cocos2dx_spine_auto.cpp(196): warning C4083: expected '('; found identifier 'NO'
+f:\cocos2d\story_2\seastory\frameworks\cocos2d-x\cocos\scripting\lua-bindings\auto\lua_cocos2dx_spine_auto.cpp(333): warning C4083: expected '('; found identifier 'NO'
+f:\cocos2d\story_2\seastory\frameworks\cocos2d-x\cocos\scripting\lua-bindings\auto\lua_cocos2dx_spine_auto.cpp(350): warning C4083: expected '('; found identifier 'NO'
+f:\cocos2d\story_2\seastory\frameworks\cocos2d-x\cocos\scripting\lua-bindings\auto\lua_cocos2dx_spine_auto.cpp(485): warning C4083: expected '('; found identifier 'NO'
+f:\cocos2d\story_2\seastory\frameworks\cocos2d-x\cocos\scripting\lua-bindings\auto\lua_cocos2dx_spine_auto.cpp(502): warning C4083: expected '('; found identifier 'NO'
+f:\cocos2d\story_2\seastory\frameworks\cocos2d-x\cocos\scripting\lua-bindings\auto\lua_cocos2dx_spine_auto.cpp(1085): warning C4083: expected '('; found identifier 'NO'
+f:\cocos2d\story_2\seastory\frameworks\cocos2d-x\cocos\scripting\lua-bindings\auto\lua_cocos2dx_spine_auto.cpp(1195): warning C4083: expected '('; found identifier 'NO'
+f:\cocos2d\story_2\seastory\frameworks\cocos2d-x\cocos\scripting\lua-bindings\auto\lua_cocos2dx_spine_auto.cpp(1265): warning C4083: expected '('; found identifier 'NO'
+f:\cocos2d\story_2\seastory\frameworks\cocos2d-x\cocos\scripting\lua-bindings\auto\lua_cocos2dx_spine_auto.cpp(1282): warning C4083: expected '('; found identifier 'NO'
+f:\cocos2d\story_2\seastory\frameworks\cocos2d-x\cocos\scripting\lua-bindings\auto\lua_cocos2dx_spine_auto.cpp(1349): warning C4083: expected '('; found identifier 'NO'
+f:\cocos2d\story_2\seastory\frameworks\cocos2d-x\cocos\scripting\lua-bindings\auto\lua_cocos2dx_spine_auto.cpp(1365): warning C4083: expected '('; found identifier 'NO'
+f:\cocos2d\story_2\seastory\frameworks\cocos2d-x\cocos\scripting\lua-bindings\auto\lua_cocos2dx_spine_auto.cpp(1400): warning C4083: expected '('; found identifier 'NO'
+f:\cocos2d\story_2\seastory\frameworks\cocos2d-x\cocos\scripting\lua-bindings\auto\lua_cocos2dx_spine_auto.cpp(1420): warning C4083: expected '('; found identifier 'NO'
+f:\cocos2d\story_2\seastory\frameworks\cocos2d-x\cocos\scripting\lua-bindings\auto\lua_cocos2dx_spine_auto.cpp(1564): warning C4083: expected '('; found identifier 'NO'
+f:\cocos2d\story_2\seastory\frameworks\cocos2d-x\cocos\scripting\lua-bindings\auto\lua_cocos2dx_spine_auto.cpp(1628): warning C4083: expected '('; found identifier 'NO'
+f:\cocos2d\story_2\seastory\frameworks\cocos2d-x\cocos\scripting\lua-bindings\auto\lua_cocos2dx_spine_auto.cpp(1782): warning C4083: expected '('; found identifier 'NO'
+f:\cocos2d\story_2\seastory\frameworks\cocos2d-x\cocos\scripting\lua-bindings\auto\lua_cocos2dx_spine_auto.cpp(1849): warning C4083: expected '('; found identifier 'NO'
+f:\cocos2d\story_2\seastory\frameworks\cocos2d-x\cocos\scripting\lua-bindings\auto\lua_cocos2dx_spine_auto.cpp(1869): warning C4083: expected '('; found identifier 'NO'
+f:\cocos2d\story_2\seastory\frameworks\cocos2d-x\cocos\scripting\lua-bindings\auto\lua_cocos2dx_spine_auto.cpp(1967): warning C4083: expected '('; found identifier 'NO'
+f:\cocos2d\story_2\seastory\frameworks\cocos2d-x\cocos\scripting\lua-bindings\auto\lua_cocos2dx_spine_auto.cpp(2079): warning C4083: expected '('; found identifier 'NO'
+f:\cocos2d\story_2\seastory\frameworks\cocos2d-x\cocos\scripting\lua-bindings\auto\lua_cocos2dx_spine_auto.cpp(2200): warning C4083: expected '('; found identifier 'NO'
+f:\cocos2d\story_2\seastory\frameworks\cocos2d-x\cocos\scripting\lua-bindings\auto\lua_cocos2dx_spine_auto.cpp(2244): warning C4083: expected '('; found identifier 'NO'
+f:\cocos2d\story_2\seastory\frameworks\cocos2d-x\cocos\scripting\lua-bindings\auto\lua_cocos2dx_spine_auto.cpp(2514): warning C4083: expected '('; found identifier 'NO'
+f:\cocos2d\story_2\seastory\frameworks\cocos2d-x\cocos\scripting\lua-bindings\auto\lua_cocos2dx_spine_auto.cpp(2652): warning C4083: expected '('; found identifier 'NO'
+f:\cocos2d\story_2\seastory\frameworks\cocos2d-x\cocos\scripting\lua-bindings\auto\lua_cocos2dx_spine_auto.cpp(2669): warning C4083: expected '('; found identifier 'NO'
+f:\cocos2d\story_2\seastory\frameworks\cocos2d-x\cocos\scripting\lua-bindings\auto\lua_cocos2dx_spine_auto.cpp(2780): warning C4083: expected '('; found identifier 'NO'
+f:\cocos2d\story_2\seastory\frameworks\cocos2d-x\cocos\scripting\lua-bindings\auto\lua_cocos2dx_spine_auto.cpp(2797): warning C4083: expected '('; found identifier 'NO'
+f:\cocos2d\story_2\seastory\frameworks\cocos2d-x\cocos\scripting\lua-bindings\auto\lua_cocos2dx_3d_auto.cpp(5377): warning C4083: expected '('; found identifier 'NO'
+f:\cocos2d\story_2\seastory\frameworks\cocos2d-x\cocos\scripting\lua-bindings\auto\lua_cocos2dx_3d_auto.cpp(5773): warning C4083: expected '('; found identifier 'NO'
+f:\cocos2d\story_2\seastory\frameworks\cocos2d-x\cocos\scripting\lua-bindings\auto\lua_cocos2dx_3d_auto.cpp(6408): warning C4083: expected '('; found identifier 'NO'
+f:\cocos2d\story_2\seastory\frameworks\cocos2d-x\cocos\scripting\lua-bindings\auto\lua_cocos2dx_3d_auto.cpp(6506): warning C4083: expected '('; found identifier 'NO'
+f:\cocos2d\story_2\seastory\frameworks\cocos2d-x\cocos\scripting\lua-bindings\auto\lua_cocos2dx_3d_auto.cpp(6557): warning C4083: expected '('; found identifier 'NO'
+f:\cocos2d\story_2\seastory\frameworks\cocos2d-x\cocos\scripting\lua-bindings\auto\lua_cocos2dx_3d_auto.cpp(6611): warning C4083: expected '('; found identifier 'NO'
+f:\cocos2d\story_2\seastory\frameworks\cocos2d-x\cocos\scripting\lua-bindings\manual\spine\lua_cocos2dx_spine_manual.cpp(514): warning C4996: 'tolua_spine_SkeletoneAnimation_setBlendFunc': was declared deprecated
+  f:\cocos2d\story_2\seastory\frameworks\cocos2d-x\cocos\scripting\lua-bindings\manual\spine\lua_cocos2dx_spine_manual.cpp(361): note: see declaration of 'tolua_spine_SkeletoneAnimation_setBlendFunc'
+f:\cocos2d\story_2\seastory\frameworks\cocos2d-x\cocos\scripting\lua-bindings\auto\lua_cocos2dx_auto.cpp(13717): warning C4083: expected '('; found identifier 'NO'
+f:\cocos2d\story_2\seastory\frameworks\cocos2d-x\cocos\scripting\lua-bindings\auto\lua_cocos2dx_auto.cpp(13759): warning C4083: expected '('; found identifier 'NO'
+f:\cocos2d\story_2\seastory\frameworks\cocos2d-x\cocos\scripting\lua-bindings\auto\lua_cocos2dx_physics_auto.cpp(4953): warning C4083: expected '('; found identifier 'NO'
+f:\cocos2d\story_2\seastory\frameworks\cocos2d-x\cocos\scripting\lua-bindings\auto\lua_cocos2dx_auto.cpp(18078): warning C4083: expected '('; found identifier 'NO'
+f:\cocos2d\story_2\seastory\frameworks\cocos2d-x\cocos\scripting\lua-bindings\auto\lua_cocos2dx_auto.cpp(21636): warning C4083: expected '('; found identifier 'NO'
+f:\cocos2d\story_2\seastory\frameworks\cocos2d-x\cocos\scripting\lua-bindings\auto\lua_cocos2dx_auto.cpp(21657): warning C4083: expected '('; found identifier 'NO'
+f:\cocos2d\story_2\seastory\frameworks\cocos2d-x\cocos\scripting\lua-bindings\auto\lua_cocos2dx_auto.cpp(22511): warning C4083: expected '('; found identifier 'NO'
+f:\cocos2d\story_2\seastory\frameworks\cocos2d-x\cocos\scripting\lua-bindings\auto\lua_cocos2dx_auto.cpp(22658): warning C4083: expected '('; found identifier 'NO'
+f:\cocos2d\story_2\seastory\frameworks\cocos2d-x\cocos\scripting\lua-bindings\auto\lua_cocos2dx_auto.cpp(22709): warning C4083: expected '('; found identifier 'NO'
+f:\cocos2d\story_2\seastory\frameworks\cocos2d-x\cocos\scripting\lua-bindings\auto\lua_cocos2dx_auto.cpp(28420): warning C4083: expected '('; found identifier 'NO'
+f:\cocos2d\story_2\seastory\frameworks\cocos2d-x\cocos\scripting\lua-bindings\auto\lua_cocos2dx_auto.cpp(28532): warning C4083: expected '('; found identifier 'NO'
+f:\cocos2d\story_2\seastory\frameworks\cocos2d-x\cocos\scripting\lua-bindings\auto\lua_cocos2dx_auto.cpp(31034): warning C4083: expected '('; found identifier 'NO'
+f:\cocos2d\story_2\seastory\frameworks\cocos2d-x\cocos\scripting\lua-bindings\auto\lua_cocos2dx_auto.cpp(36136): warning C4083: expected '('; found identifier 'NO'
+f:\cocos2d\story_2\seastory\frameworks\cocos2d-x\cocos\scripting\lua-bindings\auto\lua_cocos2dx_auto.cpp(59067): warning C4996: 'cocos2d::String': was declared deprecated
+  f:\cocos2d\story_2\seastory\frameworks\cocos2d-x\cocos\deprecated\ccdeprecated.h(1110): note: see declaration of 'cocos2d::String'
+f:\cocos2d\story_2\seastory\frameworks\cocos2d-x\cocos\scripting\lua-bindings\auto\lua_cocos2dx_auto.cpp(59211): warning C4996: 'cocos2d::String': was declared deprecated
+  f:\cocos2d\story_2\seastory\frameworks\cocos2d-x\cocos\deprecated\ccdeprecated.h(1110): note: see declaration of 'cocos2d::String'
+f:\cocos2d\story_2\seastory\frameworks\cocos2d-x\cocos\scripting\lua-bindings\auto\lua_cocos2dx_auto.cpp(85636): warning C4083: expected '('; found identifier 'NO'
+f:\cocos2d\story_2\seastory\frameworks\cocos2d-x\cocos\scripting\lua-bindings\auto\lua_cocos2dx_auto.cpp(86770): warning C4083: expected '('; found identifier 'NO'
+f:\cocos2d\story_2\seastory\frameworks\cocos2d-x\cocos\scripting\lua-bindings\auto\lua_cocos2dx_auto.cpp(86799): warning C4083: expected '('; found identifier 'NO'
+f:\cocos2d\story_2\seastory\frameworks\cocos2d-x\cocos\scripting\lua-bindings\auto\lua_cocos2dx_auto.cpp(104598): warning C4083: expected '('; found identifier 'NO'
+f:\cocos2d\story_2\seastory\frameworks\cocos2d-x\cocos\scripting\lua-bindings\auto\lua_cocos2dx_spine_auto.cpp(187): warning C4700: uninitialized local variable 'arg0' used
+f:\cocos2d\story_2\seastory\frameworks\cocos2d-x\cocos\scripting\lua-bindings\auto\lua_cocos2dx_spine_auto.cpp(205): warning C4700: uninitialized local variable 'arg0' used
+f:\cocos2d\story_2\seastory\frameworks\cocos2d-x\cocos\scripting\lua-bindings\auto\lua_cocos2dx_spine_auto.cpp(489): warning C4700: uninitialized local variable 'arg1' used
+f:\cocos2d\story_2\seastory\frameworks\cocos2d-x\cocos\scripting\lua-bindings\auto\lua_cocos2dx_spine_auto.cpp(510): warning C4700: uninitialized local variable 'arg1' used
+f:\cocos2d\story_2\seastory\frameworks\cocos2d-x\cocos\scripting\lua-bindings\auto\lua_cocos2dx_spine_auto.cpp(337): warning C4700: uninitialized local variable 'arg1' used
+f:\cocos2d\story_2\seastory\frameworks\cocos2d-x\cocos\scripting\lua-bindings\auto\lua_cocos2dx_spine_auto.cpp(358): warning C4700: uninitialized local variable 'arg1' used
+f:\cocos2d\story_2\seastory\frameworks\cocos2d-x\cocos\scripting\lua-bindings\auto\lua_cocos2dx_spine_auto.cpp(1092): warning C4700: uninitialized local variable 'arg0' used
+f:\cocos2d\story_2\seastory\frameworks\cocos2d-x\cocos\scripting\lua-bindings\auto\lua_cocos2dx_spine_auto.cpp(1268): warning C4700: uninitialized local variable 'arg1' used
+f:\cocos2d\story_2\seastory\frameworks\cocos2d-x\cocos\scripting\lua-bindings\auto\lua_cocos2dx_spine_auto.cpp(1288): warning C4700: uninitialized local variable 'arg1' used
+f:\cocos2d\story_2\seastory\frameworks\cocos2d-x\cocos\scripting\lua-bindings\auto\lua_cocos2dx_spine_auto.cpp(1577): warning C4700: uninitialized local variable 'arg0' used
+f:\cocos2d\story_2\seastory\frameworks\cocos2d-x\cocos\scripting\lua-bindings\auto\lua_cocos2dx_spine_auto.cpp(1353): warning C4700: uninitialized local variable 'arg0' used
+f:\cocos2d\story_2\seastory\frameworks\cocos2d-x\cocos\scripting\lua-bindings\auto\lua_cocos2dx_spine_auto.cpp(1373): warning C4700: uninitialized local variable 'arg0' used
+f:\cocos2d\story_2\seastory\frameworks\cocos2d-x\cocos\scripting\lua-bindings\auto\lua_cocos2dx_spine_auto.cpp(1404): warning C4700: uninitialized local variable 'arg1' used
+f:\cocos2d\story_2\seastory\frameworks\cocos2d-x\cocos\scripting\lua-bindings\auto\lua_cocos2dx_spine_auto.cpp(1428): warning C4700: uninitialized local variable 'arg1' used
+f:\cocos2d\story_2\seastory\frameworks\cocos2d-x\cocos\scripting\lua-bindings\auto\lua_cocos2dx_spine_auto.cpp(1795): warning C4700: uninitialized local variable 'arg0' used
+f:\cocos2d\story_2\seastory\frameworks\cocos2d-x\cocos\scripting\lua-bindings\auto\lua_cocos2dx_spine_auto.cpp(1980): warning C4700: uninitialized local variable 'arg0' used
+f:\cocos2d\story_2\seastory\frameworks\cocos2d-x\cocos\scripting\lua-bindings\auto\lua_cocos2dx_spine_auto.cpp(2092): warning C4700: uninitialized local variable 'arg0' used
+f:\cocos2d\story_2\seastory\frameworks\cocos2d-x\cocos\scripting\lua-bindings\auto\lua_cocos2dx_spine_auto.cpp(2257): warning C4700: uninitialized local variable 'arg0' used
+f:\cocos2d\story_2\seastory\frameworks\cocos2d-x\cocos\scripting\lua-bindings\auto\lua_cocos2dx_spine_auto.cpp(2527): warning C4700: uninitialized local variable 'arg0' used
+f:\cocos2d\story_2\seastory\frameworks\cocos2d-x\cocos\scripting\lua-bindings\auto\lua_cocos2dx_spine_auto.cpp(2655): warning C4700: uninitialized local variable 'arg1' used
+f:\cocos2d\story_2\seastory\frameworks\cocos2d-x\cocos\scripting\lua-bindings\auto\lua_cocos2dx_spine_auto.cpp(2675): warning C4700: uninitialized local variable 'arg1' used
+f:\cocos2d\story_2\seastory\frameworks\cocos2d-x\cocos\scripting\lua-bindings\auto\lua_cocos2dx_spine_auto.cpp(2783): warning C4700: uninitialized local variable 'arg1' used
+f:\cocos2d\story_2\seastory\frameworks\cocos2d-x\cocos\scripting\lua-bindings\auto\lua_cocos2dx_spine_auto.cpp(2803): warning C4700: uninitialized local variable 'arg1' used
+f:\cocos2d\story_2\seastory\frameworks\cocos2d-x\cocos\scripting\lua-bindings\auto\lua_cocos2dx_3d_auto.cpp(6415): warning C4700: uninitialized local variable 'arg1' used
+f:\cocos2d\story_2\seastory\frameworks\cocos2d-x\cocos\scripting\lua-bindings\auto\lua_cocos2dx_3d_auto.cpp(6618): warning C4700: uninitialized local variable 'arg1' used
+f:\cocos2d\story_2\seastory\frameworks\cocos2d-x\cocos\scripting\lua-bindings\auto\lua_cocos2dx_auto.cpp(18090): warning C4700: uninitialized local variable 'arg2' used
+f:\cocos2d\story_2\seastory\frameworks\cocos2d-x\cocos\scripting\lua-bindings\auto\lua_cocos2dx_auto.cpp(21640): warning C4700: uninitialized local variable 'arg2' used
+f:\cocos2d\story_2\seastory\frameworks\cocos2d-x\cocos\scripting\lua-bindings\auto\lua_cocos2dx_auto.cpp(21661): warning C4700: uninitialized local variable 'arg2' used
+f:\cocos2d\story_2\seastory\frameworks\cocos2d-x\cocos\scripting\lua-bindings\auto\lua_cocos2dx_auto.cpp(22520): warning C4700: uninitialized local variable 'arg0' used
+f:\cocos2d\story_2\seastory\frameworks\cocos2d-x\cocos\scripting\lua-bindings\auto\lua_cocos2dx_auto.cpp(22665): warning C4700: uninitialized local variable 'arg0' used
+f:\cocos2d\story_2\seastory\frameworks\cocos2d-x\cocos\scripting\lua-bindings\auto\lua_cocos2dx_auto.cpp(31041): warning C4700: uninitialized local variable 'arg1' used
+f:\cocos2d\story_2\seastory\frameworks\cocos2d-x\cocos\scripting\lua-bindings\auto\lua_cocos2dx_auto.cpp(36143): warning C4700: uninitialized local variable 'arg1' used
+  libluacocos2d.vcxproj -> F:\Cocos2d\Story_2\SeaStory\frameworks\runtime-src\proj.win32\Debug.win32\libluacocos2d.lib
