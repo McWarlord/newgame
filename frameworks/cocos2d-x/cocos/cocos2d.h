@@ -307,7 +307,7 @@ THE SOFTWARE.
 #include "3d/CCTerrain.h"
 
 //local storage
-#include "storage\local-storage\LocalStorage.h" // add by common
+#include "storage/local-storage/LocalStorage.h" // add by common
 
 // vr
 #include "vr/CCVRGenericRenderer.h"
