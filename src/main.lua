@@ -1,5 +1,5 @@
 
-cc.FileUtils:getInstance():setPopupNotify(false)
+cc.FileUtils:getInstance():setPopupNotify(true)
 cc.FileUtils:getInstance():addSearchPath("src")
 cc.FileUtils:getInstance():addSearchPath("../src")
 cc.FileUtils:getInstance():addSearchPath("res")
@@ -47,7 +47,7 @@ local function init()
 --    local rect = cc.rect(0,0,tex:getPixelsWide(),tex:getPixelsHigh())
 --    local frame = cc.SpriteFrame:createWithTexture(tex, rect)
 --    cc.SpriteFrameCache:getInstance():addSpriteFrame(frame,"Data/Common/Default.png")
-    
+
 --    local lan = cc.LocalStorage:localStorageGetItem("Language")
 --    if lan == "" or lan == nil then
 --        language = "En"
@@ -83,14 +83,14 @@ local function onRecieveIP()
 end
 
 local function main()
-	
+
 	local platform = cc.Application:getInstance():getTargetPlatform()
-    cc.Device:setKeepScreenOn(true)	
+    cc.Device:setKeepScreenOn(true)
     collectgarbage("collect")
     -- avoid memory leak
     collectgarbage("setpause", 100)
     collectgarbage("setstepmul", 5000)
-	
+
 --	local sStooage = cc.FileUtils:getInstance():getWritablePath()
 --    local sDBStooage = sStooage .. "Lobby.db"
 --    cc.LocalStorage:localStorageInit(sDBStooage)
@@ -111,12 +111,12 @@ local function main()
     end
 
 	cc.FileUtils:getInstance():addSearchPath(string.format("%s%s", sStooage, "src/"), true)
-    cc.FileUtils:getInstance():addSearchPath(string.format("%s%s", sStooage, "res/"), true)	
+    cc.FileUtils:getInstance():addSearchPath(string.format("%s%s", sStooage, "res/"), true)
 
 	require (LobbyDir .. "LobbyGlobal")
     require "utils.print_r"
 	-- initialize director
-    local director = cc.Director:getInstance()		
+    local director = cc.Director:getInstance()
 
 	--turn on display FPS
     director:setDisplayStats(false)
@@ -134,7 +134,7 @@ local function main()
 	if platform == cc.PLATFORM_OS_WINDOWS then
 		cc.Director:getInstance():getOpenGLView():setFrameSize(1360, 768)
 	end
-	
+
 	onRecieveIP()
 end
 

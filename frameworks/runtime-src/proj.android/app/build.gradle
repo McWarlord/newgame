@@ -37,6 +37,9 @@ android {
                     cppFlags "-frtti -fexceptions -fsigned-char"
                 }
             }
+            else {
+                throw new GradleException('PROP_BUILD_TYPE = ' + PROP_BUILD_TYPE.toString())
+            }
         }
 
         ndk {
@@ -48,7 +51,7 @@ android {
     sourceSets.main {
         java.srcDir "src"
         res.srcDir "res"
-        jniLibs.srcDir "libs"
+        jniLibs.srcDirs "libs", ".././../../cocos2d-x/external/ffmpeg/"
         manifest.srcFile "AndroidManifest.xml"
     }
 
